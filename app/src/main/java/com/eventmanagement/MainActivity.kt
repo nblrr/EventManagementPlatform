@@ -139,7 +139,7 @@ fun HomeScreen() {
             onClick = {
                 val intent = Intent(
                     Intent.ACTION_VIEW,
-                    "https://github.com/nblrr".toUri()
+                    "https://github.com/nblrr/EventManagementPlatform".toUri()
                 )
                 context.startActivity(intent)
             },
