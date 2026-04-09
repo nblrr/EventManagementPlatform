@@ -121,7 +121,7 @@ fun HomeScreen() {
                     "https://github.com/rafiras",
                     "https://github.com/nblrr",
                     "https://github.com/reyhanmufiid",
-                    "https://github.com/"
+                    "https://github.com/rapzseishiro"
                 ))
 
                 context.startActivity(intent)
